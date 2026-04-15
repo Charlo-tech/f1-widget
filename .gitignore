@@ -1,0 +1,16 @@
+venv/
+build/
+dist/
+installer_output/
+__pycache__/
+.venv/
+.vscode/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
